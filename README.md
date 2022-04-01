@@ -58,5 +58,3 @@ npm run test:e2e # or `npm run test:e2e:ci` for headless testing
 npm run lint
 ```
 
-
-![](https://komarev.com/ghpvc/?username=BettaSplendid)
