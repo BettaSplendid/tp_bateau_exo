@@ -22,7 +22,6 @@ import HelloWorld from "@/components/HelloWorld.vue";
         <RouterLink to="/boat">Boat</RouterLink>
         <RouterLink to="/form">Form</RouterLink>
       </nav>
-      
     </div>
   </header>
 
